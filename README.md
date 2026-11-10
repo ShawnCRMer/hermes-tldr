@@ -2,6 +2,10 @@
 
 **One click turns a long agent reply into what changed, what's backed by a tool step, what's still risky, and what the agent needs from you.**
 
+![TL;DR in action](docs/tldr-demo.gif)
+
+▶ **[Watch the 75-second demo video](https://github.com/ShawnCRMer/hermes-tldr/releases/download/v6.0.0/TLDR-demo.mp4)**
+
 ![TL;DR summary of the last reply: status, what changed, risks and decisions](docs/summary.png)
 
 ## Why
