@@ -1,0 +1,10 @@
+id: tldr
+name: tldr
+version: 6.0.0
+entrypoint: __init__.py
+apiVersion: 3
+requires_hermes: ">=0.23.0"
+author: "Shawn Cleta"
+description: "One-click summaries of long agent replies in Hermes Desktop: what changed, what's verified, what's risky and what needs your decision, with answers you can insert back into the chat."
+provides_tools: []
+provides_hooks: []
